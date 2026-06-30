@@ -1,16 +1,21 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="mark-full-paper.svg">
+  <img alt="One System" src="mark-full-ink.svg" width="56">
+</picture>
+## Pratik Mehta
 
-<!--
-**PratikM96/pratikm96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Creative Technologist, New York.** I build creative, social, and performance as one system.
 
-Here are some ideas to get you started:
+I started in computer science and kept following the path toward the people the work is for, through design, into marketing. The systems habit stayed with me. Now I build brand, content, UI, motion, and the performance loop after launch as one connected practice, with an AI-assisted workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+FOCUS    brand · social · content · UI/UX · motion · performance
+ORIGIN   B.S. Computer Science, NYU
+METHOD   built like a system, accountable to what it does after it ships
+STATUS   open to creative or marketing leadership roles
+```
+
+Self-initiated concept systems, built to show direction, not client work:
+**The Ninth** (esports membership), **Level** (responsible prediction-market interface), **WISP** (live AI host presence).
+
+[mehtapratik.com](https://mehtapratik.com) · [LinkedIn](https://www.linkedin.com/in/pratikm96) · mehtadpratik@gmail.com
