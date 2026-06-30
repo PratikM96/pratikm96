@@ -1,7 +1,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="mark-full-paper.svg">
   <img alt="One System" src="mark-full-ink.svg" width="35">
-</picture><br/>
+</picture>
+
 ## Pratik Mehta
 
 **Creative Technologist, New York.** I build creative, social, and performance as one system.
